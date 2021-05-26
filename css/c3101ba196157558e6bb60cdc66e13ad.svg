@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 1 1" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <mask id="stacked-avatar-mask" maskContentUnits="objectBoundingBox" viewBox="0 0 1 1">
+    <rect fill="white" width="1" height="1"/>
+    <circle fill="black" cx="1.2083333333333333" cy="0.5" r="0.5416666666666666"/>
+  </mask>
+
+  <rect fill="black" width="1" height="1" mask="url(#stacked-avatar-mask)"/>
+</svg>
